@@ -79,4 +79,4 @@ class Solution(object):
 
 print(Solution().findMiddleIndex([2, 3, -1, 8, 4]))
 print(Solution().findMiddleIndex([1, -1, 4]))
-print(Solution().findMiddleIndex([2, 5]))
+# print(Solution().findMiddleIndex([2, 5]))
